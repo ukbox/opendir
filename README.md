@@ -1,1 +1,1 @@
-# opendir
+# OpenMauSuji Plugin opendir
